@@ -16,4 +16,3 @@ while True:
         print("잘못된 기호를 입력하셨습니다.")
     
     print()  
-
